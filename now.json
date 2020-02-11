@@ -2,6 +2,9 @@
   "version": 2,
   "github": {
     "silent": true
+  },
+  "env": {
+    "kkr": "@ssss"
   }
 }
 
