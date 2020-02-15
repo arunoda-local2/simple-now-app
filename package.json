@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "next",
-    "build": "next build",
+    "build": "sleep 40 && next build",
     "start": "next start"
   },
 
