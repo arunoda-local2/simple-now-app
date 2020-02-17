@@ -1,0 +1,13 @@
+{
+  "builds": [
+    {
+            "src": "package.json",
+            "use": "@now/next",
+            "config": {
+                "zeroConfig": true,
+                "framework": "nextjs",
+                "debug": true
+            }
+     }
+  ]
+}
